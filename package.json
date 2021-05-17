@@ -1,0 +1,30 @@
+{
+  "name": "juego_dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node-dev src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForCout/Sprint4_Juego_Dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForCout/Sprint4_Juego_Dados/issues"
+  },
+  "homepage": "https://github.com/ForCout/Sprint4_Juego_Dados#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-json": "^1.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-dev": "^6.7.0",
+    "uniqueid": "^1.0.0"
+  }
+}
